@@ -1,0 +1,20 @@
+{
+  "name": "firebase-basic-instagram",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@babel/runtime": "^7.4.4",
+    "expo": "^30.0.0",
+    "firebase": "5.2.0",
+    "react": "16.4.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-elements": "^1.1.0",
+    "react-native-vector-icons": "^6.4.2",
+    "react-navigation": "^3.9.1",
+    "react-navigation-header-buttons": "^1.2.1",
+    "uuid": "3.3.2"
+  }
+}
